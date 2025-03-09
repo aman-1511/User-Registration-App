@@ -144,32 +144,7 @@ npm start
 
 The frontend will run on `http://localhost:3000` and the backend on `http://localhost:5000`
 
-## Git Repository Setup and Deployment
 
-1. Initialize Git Repository (if not already done)
-```bash
-git init
-```
-
-2. Add .gitignore files (already present in your project)
-
-3. Stage and commit your changes
-```bash
-git add .
-git commit -m "Initial commit"
-```
-
-4. Create a new repository on GitHub
-
-5. Add remote repository
-```bash
-git remote add origin <your-github-repo-url>
-```
-
-6. Push your code
-```bash
-git push -u origin main
-```
 
 ## Project Structure
 
@@ -228,21 +203,7 @@ This project demonstrates a complete user registration system with modern web de
 
 The application provides a solid foundation for user management and authentication that can be extended for various use cases.
 
-## LaTeX Documentation
 
-For a professionally formatted PDF version of this documentation, you can use the provided LaTeX code in the `documentation` folder. To generate the PDF:
-
-1. Install a LaTeX distribution (TeX Live or MiKTeX)
-2. Compile the .tex file using a LaTeX compiler
-3. Or use online platforms like Overleaf (https://www.overleaf.com)
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
