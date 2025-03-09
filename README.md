@@ -14,6 +14,8 @@ This is a full-stack user registration system built with React (frontend) and No
 
 ### Video Demo
 
+https://github.com/user-attachments/assets/1aab8fb3-3de9-4c0e-a03f-f2e4b56bf143
+
 Watch the demo video to see the application in action. The video demonstrates:
 - User registration process
 - Login functionality
