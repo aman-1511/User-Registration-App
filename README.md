@@ -205,6 +205,4 @@ The application provides a solid foundation for user management and authenticati
 
 
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details 
