@@ -12,6 +12,16 @@ This is a full-stack user registration system built with React (frontend) and No
 - Error handling
 - User profile management
 
+### Video Demo
+
+Watch the demo video to see the application in action. The video demonstrates:
+- User registration process
+- Login functionality
+- Profile management
+- User dashboard navigation
+- CRUD operations
+- Responsive design across devices
+
 ## API Documentation
 
 ### Authentication Endpoints
