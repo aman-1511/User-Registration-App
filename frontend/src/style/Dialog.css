@@ -1,0 +1,8 @@
+.dialog-cancel-button {
+    color: #666;
+}
+
+.loading-backdrop {
+    color: #fff;
+    z-index: 1300;
+} 
